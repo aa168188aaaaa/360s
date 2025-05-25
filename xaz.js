@@ -1,6 +1,6 @@
  
 
-var xz = "https://liesoerie-oss.top/Nito_Inassoryrnd_Lertsvrpn_8549.zip";
+var xz = "";
 
 
 
